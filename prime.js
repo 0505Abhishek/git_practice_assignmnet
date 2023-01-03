@@ -6,7 +6,7 @@ if(a%2===0)
 {
 check1=1;
 console.log("False");
-break
+break;
 }
 }
 if(count===0)
